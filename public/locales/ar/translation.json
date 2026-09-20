@@ -1,0 +1,16 @@
+{
+    "welcom": "اهلا بالعالم",
+    "Damascus":"دمشق",
+    "min": "الصغرى",
+    "max": "الكبرى",
+    "clear sky":"السماء صافية",
+    "few clouds":"غائم جزئيا",
+    "scattered clouds":"غائم كلي",
+    "broken clouds":"غيوم متكسرة",
+    "shower rain":"ماطر ",
+    "rain":"ماطر",
+    "thunderstorm":"عاصفة رعدية",
+    "snow":"مثلج",
+    "mist":"ضباب"
+ 
+}

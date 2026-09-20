@@ -1,0 +1,64 @@
+/* [project]/app/App.css [app-client] (css) */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  pointer-events: none;
+  height: 40vmin;
+}
+
+body {
+  background-color: #0052d0 !important;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: 20s linear infinite App-logo-spin;
+  }
+}
+
+.App-header {
+  color: #fff;
+  background-color: #282c34;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  display: flex;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@font-face {
+  font-family: IBM;
+  src: url("../media/IBMPlexSansArabic-Regular.3z8krkhn_ugxp.ttf");
+  weight: 500;
+}
+
+@font-face {
+  font-family: IBM;
+  src: url("../media/IBMPlexSansArabic-Bold.05il3tnlxc4ds.ttf");
+  weight: 800;
+}
+
+@font-face {
+  font-family: IBM;
+  src: url("../media/IBMPlexSansArabic-Thin.3gvr-v3cv7jsj.ttf");
+  weight: 300;
+}
+
+/*# sourceMappingURL=app_App_09satwb.css.map*/
